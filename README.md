@@ -15,8 +15,8 @@ You can open `index.html` directly in a browser for a quick preview. For a bette
 
 ```bash
 # from repository root
-python3 -m http.server 8000
-# open http://localhost:8000 in your browser
+python3 -m http.server 80
+# open http://localhost in your browser
 ```
 
 License
